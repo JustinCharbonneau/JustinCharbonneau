@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi, 👋 I'm Justin Charbonneau</h1>
 
-<!--
-**JustinCharbonneau/JustinCharbonneau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Scientist | Machine Learning</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinCharbonneau&hide=javascript,html" alt="TopLangs JustinCharbonneau" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=JustinCharbonneau&show_icons=true" alt="Stats JustinCharbonneau" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📕 Latest Blog Posts  
+- [Introduction to Bayesian Modelling with Stan and R](https://medium.com/@jchar217/introduction-to-bayesian-modelling-with-stan-and-r-57d042eadeb7)
+
+
+## Contact Me  
+<p align="center">
+<a href="https://medium.com/@jchar217" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@JustinCharbonneau" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/charbonneaujustin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JustinCharbonneau" height="30" width="30" /></a>
+<a href="https://kaggle.com/jchar217" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="JustinCharbonneau" height="30" width="30" /></a>
+</p>
