@@ -9,7 +9,7 @@
 
 ## 📕 Latest Blog Posts  
 - [Introduction to Bayesian Modelling with Stan and R](https://medium.com/@jchar217/introduction-to-bayesian-modelling-with-stan-and-r-57d042eadeb7)
-
+- [My Data Science Co-op at Ario](https://www.arioplatform.com/blog/doing-data-science-as-a-co-op-at-ario)
 
 ## Contact Me  
 <p align="center">
