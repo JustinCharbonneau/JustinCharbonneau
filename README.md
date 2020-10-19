@@ -16,4 +16,5 @@
 <a href="https://medium.com/@jchar217" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@JustinCharbonneau" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/charbonneaujustin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JustinCharbonneau" height="30" width="30" /></a>
 <a href="https://kaggle.com/jchar217" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="JustinCharbonneau" height="30" width="30" /></a>
+<a href="https://www.instagram.com/justin.codes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="JustinCharbonneau" height="30" width="30" /></a>
 </p>
